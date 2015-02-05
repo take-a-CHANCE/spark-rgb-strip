@@ -1,7 +1,7 @@
 {
-  "name": "uber-library-example",
-  "author": "Joe Goggins <joe@spark.io>",
+  "name": "spark-rgb-strip",
+  "author": "Chance Davis <chancedavis53@msn.com>",
   "license": "MIT",
-  "version": "0.0.10",
-  "description": "A simple library that illustrates coding conventions of a Spark Library"
+  "version": "0.0.1",
+  "description": "A simple library that controls traditional 12v RGB LED strips"
 }
